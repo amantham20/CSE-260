@@ -1,7 +1,7 @@
 # CSE-260
 
-# Homeworks 100% <br>
-content: <br>
+
+#content: <br>
 1. Logic
 2. Logic Proofs
 3. Quantifiers
