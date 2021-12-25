@@ -16,7 +16,8 @@ GPA: 4.0
 10. sequence
 11. Recurrence
 12. Summation
-13. Infity <br> -contable and uncountable <br>
+13. Infity 
+    - contable and uncountable
 15. Matrices
 16. Function Growth
 17. Base conversions
@@ -33,5 +34,5 @@ GPA: 4.0
 28. Inclusion & exclusion
 29. Pegion Hole Princeple
 30. Relations
-  - combining relations
-  - Closure relations
+    - combining relations
+    - Closure relations
