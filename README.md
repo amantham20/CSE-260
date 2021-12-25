@@ -1,7 +1,9 @@
 # CSE-260
 
+GPA: 4.0
 
-#content: <br>
+# content: <br>
+
 1. Logic
 2. Logic Proofs
 3. Quantifiers
